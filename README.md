@@ -1,6 +1,6 @@
 # Ex03 To-Do List using JavaScript
-## NAME : SRIRAM.E
-## REG NO : 212224220106
+## NAME : RAMESH KRIHSNAN S
+## REG NO : 212224220076
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
