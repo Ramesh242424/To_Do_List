@@ -1,5 +1,5 @@
 # Ex03 To-Do List using JavaScript
-## NAME : RAMESH KRIHSNAN S
+## NAME : RAMESH KRISHNAN S
 ## REG NO : 212224220076
 
 ## AIM
